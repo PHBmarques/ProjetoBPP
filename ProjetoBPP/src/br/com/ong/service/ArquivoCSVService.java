@@ -54,4 +54,10 @@ public class ArquivoCSVService {
             System.out.printf("%-5s | %-20s | %s%n", sigla, nome, regiao);
         }
     }
+    
+    public static void main(String[] args) {
+        System.out.println("Iniciando leitura do CSV...");
+        lerEstados();
+    }
 }
+
