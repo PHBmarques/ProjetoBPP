@@ -57,7 +57,7 @@ public class Login {
         System.out.println("- Pelo menos um caractere especial (@#$%&*!)");
     }
     public static void main(String[] args) {
-    // MODIFIQUE AQUI PARA TESTAR
+    
     String usuarioParaTestar = "admin";
     String senhaParaTestar = "Admin@123";
 
